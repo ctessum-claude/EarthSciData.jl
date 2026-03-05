@@ -18,6 +18,8 @@ makedocs(;
         "Home" => "index.md",
         "GEOS-FP" => "geosfp.md",
         "2016 NEI" => "nei2016.md",
+        "ERA5" => "era5.md",
+        "EDGAR v8.1" => "edgar_v81.md",
         "API" => "api.md",
         "🔗 Benchmarks" => "benchmarks.md"
     ]
